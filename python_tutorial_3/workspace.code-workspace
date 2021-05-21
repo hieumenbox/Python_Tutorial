@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../getting_knowing_data"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../python_tutorial_4"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python3"
+	}
+}
